@@ -1,0 +1,3 @@
+self.centralwidget = QtWidgets.QWidget(Dialog)
+self.centralwidget.setObjectName("centralwidget")
+Dialog.setCentralWidget(self.centralwidget)
